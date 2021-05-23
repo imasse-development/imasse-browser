@@ -5,7 +5,7 @@ Imasse Browser is a web browser developed in React Native with the search engine
 
 ## Installation
 
-In order to install the Imasse Browser app you need to clone the repository and use the expo-cli to run locally on your computer. 
+In order to install the Imasse Browser app you need to clone the repository and use the expo-cli to run locally on your computer. You can also install the APK from the [latest release](https://github.com/imasse-dev/imasse-browser/releases/latest)
 
 ```
 yarn install
