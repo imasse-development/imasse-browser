@@ -13,7 +13,7 @@
 
 ---
 
-Imasse Browser is a web browser developed in React Native with the search engine www.imasse.com as the default search engine. The code for the Imasse Browser has been adapted from WeixuanZ's Wink Browser which can be found at https://github.com/WeixuanZ/wink/
+Imasse Browser is a web browser developed in React Native with the search engine www.imasse.com as the default search engine. The code for the Imasse Browser has been adapted from @WeixuanZ's Wink Browser which can be found at https://github.com/WeixuanZ/wink/
 
 ## Installation
 
