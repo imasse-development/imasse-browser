@@ -22,8 +22,7 @@ We don't track anything you do ever! We don't collect any personal information a
 ## ⇨ Research Easier and Faster
 Filter results based on credibility and easily create citations for any results just by clicking on the bookmark icon in the bottom right.
 
----
-
+##
 By using the Imasse mobile app you agree to the installation of this app, and you agree to the End User License Agreement and the Privacy Policy which can be found below.
 
 https://www.imasse.com/privacy
