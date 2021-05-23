@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Imasse",
+    "slug": "Imasse",
+    "version": "1.0.0",
+    "privacy": "public",
+    "description": "Imasse is the search engine educating the world.",
+    "githubUrl": "https://github.com/imasse-dev/imasse-browser",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f7f7f7"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "assets/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.imasse.browser",
+      "buildNumber": "1.1.0",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.imasse.browser",
+      "versionCode": 400010100,
+      "softwareKeyboardLayoutMode": "pan",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#f7f7f7"
+    }
+  }
+  }
+}
