@@ -1,16 +1,4 @@
-![Wink](https://imasse.com/files/img/hotlink-ok/logo.png)
-
-<p align="center">
-    <a aria-label="expo" href="https://expo.io/" target="_blank">
-        <img alt="Runs with Expo" src="https://img.shields.io/badge/Runs%20with%20Expo-000.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000">
-    </a>   
-    <a aria-label="build" href="https://github.com/WeixuanZ/wink/actions" target="_blank">
-    </a>
-    <a aria-label="licensed" href="https://github.com/WeixuanZ/wink/blob/master/LICENSE" target="_blank">
-      <img alt="License: MIT" src="https://img.shields.io/github/license/imasse-dev/imasse-browser?style=flat-square">
-    </a>
-</p>
-
+![Imasse](https://imasse.com/files/img/hotlink-ok/logo.png)
 ---
 
 Imasse Browser is a web browser developed in React Native with the search engine www.imasse.com as the default search engine. The code for the Imasse Browser has been adapted from WeixuanZ's Wink Browser which can be found at https://github.com/WeixuanZ/wink/
